@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[sby:home|Door43 (sby)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-sby|d43-sby repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-sby/archive/master.zip|d43-sby.zip]]
+
+**Recent Changes**
+{{changes>ns = sby}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/sby|Ethnologue data]]
+
